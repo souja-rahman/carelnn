@@ -1,0 +1,20 @@
+
+/*------------------------------------------------------------------
+
+[Pricing Plans Stylesheet]
+
+	Project:		Bootstrap Landing Template
+	Version:		1.0
+	Last change:	05/26/2012
+	Assigned to:	Souja (rh)
+	
+
+-------------------------------------------------------------------*/
+
+
+/*-- Plan Container --*/
+
+
+.thumbnail img{
+	width:360px;height:190px;
+}
